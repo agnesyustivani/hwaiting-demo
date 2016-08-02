@@ -25,4 +25,5 @@
 
     </div> <!-- /container -->
   </body>
+  <?php require 'footer.php'; ?>
 </html>
